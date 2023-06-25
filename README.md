@@ -63,6 +63,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [tidypolars](https://tidypolars.readthedocs.io/en/latest/) `tidypolars` python library built on top of polars library that gives access to methods and functions familiar to R tidyverse users.
 - [Working with Polars and XlsxWriter](https://xlsxwriter.readthedocs.io/working_with_polars.html) - Guide to using the Python [XlsxWriter](https://xlsxwriter.readthedocs.io/index.html) library with Polars to create Excel reports.
 - [Python package seaborn_polars](https://github.com/pavelcherepan/seaborn_polars) - Python package to plot Polars DataFrames and LazyFrames with [seaborn](https://seaborn.pydata.org/) by [@pavelcherepan](https://github.com/pavelcherepan)
+- [genetic annotations as polars dataframes](https://github.com/antonkulaga/genotations) - Bioinformatic library that manipulates and downloads Ensembl genetic annotations and represents them as polars dataframes.
 
 ### Rust
 
